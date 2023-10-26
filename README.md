@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : jingwangw12@gmail.com
+- 📫 How to reach me :...
 
 <!---
 Awannng/Awannng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
