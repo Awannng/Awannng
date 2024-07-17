@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Awannng
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning Python, Java
+- 👋 Hi, I’m Jing Wang
+- 👀 I’m interested in biking and eating
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :...
 
